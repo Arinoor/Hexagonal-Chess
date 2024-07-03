@@ -1,0 +1,43 @@
+This is a Chess Game file
+Alive Pieces:
+Pawn White 1 5 false
+Pawn White 2 5 false 
+Pawn White 3 5 false
+Pawn White 4 5 false
+Pawn White 5 5 false
+Pawn White 5 4 false
+Pawn White 5 3 false
+Pawn White 5 2 false
+Pawn White 5 1 false
+Pawn Black 7 11 false
+Pawn Black 7 10 false
+Pawn Black 7 9 false
+Pawn Black 7 8 false
+Pawn Black 7 7 false
+Pawn Black 8 7 false
+Pawn Black 9 7 false
+Pawn Black 10 7 false
+Pawn Black 11 7 false
+Knight Black 9 11
+Knight Black 11 9
+Bishop Black 9 9
+Bishop Black 10 10
+Bishop Black 11 11
+Rook Black 8 11
+Rook Black 11 8
+Queen Black 10 11
+King Black 11 10
+Knight White 1 3
+Knight White 3 1
+Bishop White 1 1
+Bishop White 2 2
+Bishop White 3 3
+Rook White 1 4
+Rook White 4 1
+Queen White 1 2
+King White 2 1
+Dead Pieces:
+Turn:
+White
+GameStatus:
+Running
